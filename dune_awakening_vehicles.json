@@ -1,0 +1,70 @@
+{
+  "Sandbike": {
+    "Mk3": {
+      "Engine": {
+        "resources": {
+          "Aluminum Ingot": 60,
+          "Cobalt Paste": 31,
+          "Particle Capacitor": 18,
+          "Complex Machinery": 26,
+          "Spice-infused Aluminum Dust": 22,
+          "Water (mL)": 510
+        },
+        "craft_time_sec": 15
+      }
+    }
+  },
+  "Buggy": {
+    "Mk5": {
+      "Chassis": {
+        "resources": {
+          "Aluminum Ingot": 70,
+          "Particle Capacitor": 45,
+          "Cobalt Paste": 30,
+          "Holtzman Actuator": 36,
+          "Spice-infused Aluminum Dust": 22,
+          "Water (mL)": 510
+        },
+        "craft_time_sec": 20
+      },
+      "Engine": {
+        "resources": {
+          "Aluminum Ingot": 55,
+          "Advanced Servoks": 18,
+          "Cobalt Paste": 20,
+          "Armor Plating": 21,
+          "Diamondine Dust": 7,
+          "Water (mL)": 340
+        },
+        "craft_time_sec": 20
+      }
+    }
+  },
+  "Ornithopter": {
+    "Assault Mk5": {
+      "Engine": {
+        "resources": {
+          "Duraluminum Ingot": 50,
+          "Particle Capacitor": 30,
+          "Cobalt Paste": 25,
+          "Military Power Regulator": 7,
+          "Water (mL)": 675
+        },
+        "craft_time_sec": 20
+      }
+    },
+    "Scout Mk5": {
+      "Chassis": {
+        "resources": {
+          "Duraluminum Ingot": 48,
+          "Cobalt Paste": 25,
+          "Particle Capacitor": 14,
+          "Complex Machinery": 21,
+          "Hydraulic Piston": 7,
+          "Water (mL)": 675
+        },
+        "craft_time_sec": 20
+      }
+    }
+  }
+}
